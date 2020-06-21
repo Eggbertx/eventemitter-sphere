@@ -1,5 +1,2 @@
 dist/
-tsconfig.json
 types/
-# tsconfig.json and types/ are currently unused, 
-# and will be until an upcoming miniSphere update adding TypeScript support
